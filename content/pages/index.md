@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 'Aulas, técnicas e cursos para realizações de provas para concursos'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
