@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: O que é o x-testes
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Olá! Criei o grupo myScore para reunir pessoas que compartilham interesses
+      sobre concursos públicos. Acho que o nome do grupo diz tudo, mas isso é
+      apenas o começo. Que bom que você está aqui! Essa comunidade só vai
+      crescer se tivermos mais membros como você.
     actions:
       - label: Get started
         altText: ''
