@@ -9,10 +9,10 @@ sections:
       type: TitleBlock
     subtitle: O que é o x-testes
     text: >
-      Olá! Criei o grupo myScore para reunir pessoas que compartilham interesses
-      sobre concursos públicos. Acho que o nome do grupo diz tudo, mas isso é
-      apenas o começo. Que bom que você está aqui! Essa comunidade só vai
-      crescer se tivermos mais membros como você.
+      É o sistema de ensino itinerante que trabalha para reunir pessoas que
+      compartilham interesses sobre aprovação em concursos público. A nossa
+      marca diz tudo, mas isso é apenas o começo. Que bom que você está aqui!
+      Esta Instituição só vai crescer se tivermos mais membros como você.
     actions:
       - label: Get started
         altText: ''
