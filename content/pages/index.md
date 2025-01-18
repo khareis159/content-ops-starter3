@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: 'X-TESTES  -  INSTITUTO  DE  ESTUDOS  PREPARATÓRIOS '
+      label: 'X-TESTES  -  INSTITUTO   DE   ESTUDOS   PREPARATÓRIOS '
       color: text-primary
       type: Badge
     elementId: ''
