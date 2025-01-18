@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: 'INSTITUTO DE ESTUDOS PREPARATÓRIOS '
+      label: 'INSTITUTO  DE  ESTUDOS  PREPARATÓRIOS '
       color: text-primary
       type: Badge
     elementId: ''
