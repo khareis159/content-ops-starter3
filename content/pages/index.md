@@ -12,7 +12,8 @@ sections:
       É o sistema de ensino itinerante que trabalha para reunir pessoas que
       compartilham interesses sobre aprovação em concursos público. A nossa
       marca diz tudo, mas isso é apenas o começo. Que bom que você está aqui!
-      Esta Instituição só vai crescer se tivermos mais membros como você.
+      Esta Instituição só vai crescer se tivermos mais membros como você. Faça
+      abaixo sua inscrição.
     actions:
       - label: Get started
         altText: ''
