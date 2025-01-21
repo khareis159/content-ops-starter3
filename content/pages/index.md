@@ -16,7 +16,7 @@ sections:
       abaixo sua inscrição.
     actions:
       - label: Inscrição
-        altText: ''
+        altText: Click para preencher o formulãrio
         url: /
         showIcon: false
         icon: arrowRight
