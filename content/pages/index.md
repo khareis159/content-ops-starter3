@@ -15,7 +15,7 @@ sections:
       Esta Instituição só vai crescer se tivermos mais membros como você. Faça
       abaixo sua inscrição.
     actions:
-      - label: Get started
+      - label: Inscrição
         altText: ''
         url: /
         showIcon: false
