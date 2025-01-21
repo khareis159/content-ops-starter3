@@ -16,7 +16,7 @@ sections:
       abaixo sua inscrição.
     actions:
       - label: Inscrição
-        altText: Click para preencher o formulãrio
+        altText: Click para preencher o formulário
         url: '/https://forms.gle/YhVCAjJBs8BFDoE36'
         showIcon: false
         icon: arrowRight
